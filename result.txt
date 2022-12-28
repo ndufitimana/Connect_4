@@ -1,0 +1,484 @@
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[10.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 0 
+MinMax 10 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[15.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 1 
+MinMax 9 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[20.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 3 
+MinMax 7 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[25.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 3 
+MinMax 7 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[30.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 3 
+MinMax 7 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[35.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 3 
+MinMax 7 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[40.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 3 
+MinMax 7 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[45.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 7 
+MinMax 3 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[50.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 2 
+MinMax 8 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[60.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 5 
+MinMax 5 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[65.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 4 
+MinMax 5 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[70.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 7 
+MinMax 3 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[75.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 7 
+MinMax 3 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[80.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 4 
+MinMax 5 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[85.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 10 
+MinMax 0 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[90.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 7 
+MinMax 3 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[95.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 10 
+MinMax 0 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[100.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 5 
+MinMax 5 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[200.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 10 
+MinMax 0 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[500.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 9 
+MinMax 1 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[1000.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 10 
+MinMax 0 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[1500.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 10 
+MinMax 0 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[2000.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 10 
+MinMax 0 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[4000.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 10 
+MinMax 0 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[6000.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 9 
+MinMax 1 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[8000.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 10 
+MinMax 0 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[10000.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 10 
+MinMax 0 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[10.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 0 
+MinMax 10 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[15.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 0 
+MinMax 10 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[20.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 0 
+MinMax 10 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[25.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 1 
+MinMax 9 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[30.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 0 
+MinMax 10 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[35.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 0 
+MinMax 10 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[40.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 1 
+MinMax 9 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[45.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 0 
+MinMax 10 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[50.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 0 
+MinMax 10 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[60.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 0 
+MinMax 10 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[65.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 0 
+MinMax 10 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[70.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 1 
+MinMax 9 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[75.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 0 
+MinMax 10 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[80.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 2 
+MinMax 8 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[85.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 2 
+MinMax 8 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[90.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 2 
+MinMax 8 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[95.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 2 
+MinMax 8 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[100.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 0 
+MinMax 10 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[200.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 4 
+MinMax 5 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[500.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 5 
+MinMax 4 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[1000.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 6 
+MinMax 4 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[1500.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 3 
+MinMax 6 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[2000.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 7 
+MinMax 2 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[4000.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 6 
+MinMax 4 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[6000.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 8 
+MinMax 2 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[8000.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 6 
+MinMax 4 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[10000.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 4 
+MinMax 6 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[10.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 0 
+MinMax 10 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[15.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 0 
+MinMax 10 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[20.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 0 
+MinMax 10 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[25.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 0 
+MinMax 10 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[30.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 0 
+MinMax 10 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[35.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 0 
+MinMax 10 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[40.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 1 
+MinMax 9 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[45.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 1 
+MinMax 9 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[50.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 0 
+MinMax 9 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[60.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 0 
+MinMax 8 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[65.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 0 
+MinMax 10 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[70.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 1 
+MinMax 9 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[75.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 0 
+MinMax 9 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[80.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 0 
+MinMax 10 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[85.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 0 
+MinMax 10 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[90.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 0 
+MinMax 8 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[95.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 1 
+MinMax 9 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[100.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 0 
+MinMax 10 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[200.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 1 
+MinMax 8 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[500.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 4 
+MinMax 6 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[1000.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 6 
+MinMax 4 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[1500.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 7 
+MinMax 2 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[2000.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 6 
+MinMax 1 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[4000.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 2 
+MinMax 7 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[6000.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 8 
+MinMax 0 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[8000.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 5 
+MinMax 2 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[10000.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 4 
+MinMax 1 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[10.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 2 
+Pruning 8 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[15.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 6 
+Pruning 4 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[20.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 5 
+Pruning 5 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[25.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 2 
+Pruning 8 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[30.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 3 
+Pruning 7 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[35.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 7 
+Pruning 3 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[40.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 4 
+Pruning 6 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[45.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 7 
+Pruning 3 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[50.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 7 
+Pruning 3 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[60.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 3 
+Pruning 7 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[65.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 0 
+Pruning 10 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[70.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 5 
+Pruning 5 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[75.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 9 
+Pruning 1 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[80.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 8 
+Pruning 2 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[85.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 9 
+Pruning 1 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[90.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 8 
+Pruning 2 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[95.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 7 
+Pruning 3 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[100.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 8 
+Pruning 2 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[200.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 9 
+Pruning 1 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[500.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 10 
+Pruning 0 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[1000.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 10 
+Pruning 0 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[1500.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 10 
+Pruning 0 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[2000.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 10 
+Pruning 0 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[4000.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 10 
+Pruning 0 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[6000.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 10 
+Pruning 0 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[8000.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 10 
+Pruning 0 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[10000.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 10 
+Pruning 0 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[10.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 0 
+Pruning 10 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[15.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 1 
+Pruning 9 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[20.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 1 
+Pruning 9 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[25.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 3 
+Pruning 6 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[30.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 0 
+Pruning 10 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[35.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 5 
+Pruning 5 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[40.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 0 
+Pruning 10 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[45.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 5 
+Pruning 5 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[50.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 0 
+Pruning 10 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[60.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 6 
+Pruning 4 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[65.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 3 
+Pruning 7 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[70.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 4 
+Pruning 5 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[75.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 0 
+Pruning 7 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[80.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 5 
+Pruning 5 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[85.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 1 
+Pruning 9 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[90.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=2)
+MCTS 10 
+Pruning 0 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[95.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 1 
+Pruning 9 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[100.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 2 
+Pruning 8 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[200.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 2 
+Pruning 7 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[500.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 6 
+Pruning 4 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[1000.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 8 
+Pruning 1 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[1500.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 3 
+Pruning 7 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[2000.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 5 
+Pruning 4 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[4000.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 7 
+Pruning 3 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[6000.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 6 
+Pruning 4 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[8000.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 9 
+Pruning 1 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[10000.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=4)
+MCTS 4 
+Pruning 6 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[10.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 0 
+Pruning 10 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[15.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 0 
+Pruning 10 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[20.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 0 
+Pruning 10 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[25.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 0 
+Pruning 10 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[30.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 0 
+Pruning 10 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[35.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 0 
+Pruning 10 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[40.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 0 
+Pruning 10 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[45.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 0 
+Pruning 10 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[50.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 1 
+Pruning 9 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[60.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 2 
+Pruning 8 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[65.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 1 
+Pruning 9 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[70.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 2 
+Pruning 8 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[75.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 3 
+Pruning 7 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[80.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 0 
+Pruning 10 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[85.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 3 
+Pruning 7 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[90.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 0 
+Pruning 10 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[95.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 1 
+Pruning 9 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[100.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 4 
+Pruning 5 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[200.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 0 
+Pruning 9 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[500.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 5 
+Pruning 5 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[1000.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 5 
+Pruning 3 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[1500.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 6 
+Pruning 4 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[2000.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 8 
+Pruning 1 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[4000.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 7 
+Pruning 2 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[6000.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 4 
+Pruning 3 
+Namespace(game='connect', p1='mcts', p2='pruning', a1=[8000.0], a2=[], games=10, game_args=[], e1='basic', e2='basic', d1=4, d2=6)
+MCTS 5 
+Pruning 1 
+

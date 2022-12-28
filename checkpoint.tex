@@ -1,0 +1,64 @@
+\documentclass[11pt]{article}
+\usepackage{fullpage}
+\usepackage{graphicx}
+
+\title{CS63 Spring 2022\\Final Project Checkpoint}
+\author{Nelson Dufitimana, Kelvin Darfour}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section{Project Goal}
+
+The main goal of our project is apply adverserial search algorithms we have learned to an entirely new game. 
+Specifically we will be applying MinMax and MCTS to Connect-4 board game and compare the performance of both algorithms
+on the game.
+
+\section{AI Methods Used}
+
+Adverserial Searching Algorithms: 
+Monte Carlo Tree Search
+Depth Bounded Minimax
+
+\section{Staged Development Plan}
+
+Goals:
+\begin{itemize}
+\item Integrating Connect-4 game to the existing board game interface to be able 
+to apply the current implementation of the algorithms we have.
+
+\item Successfully applying MCTS to Connect-4
+\item Successfully applying Depth Bounded Minimax to Connect-4.
+
+\item Successfully implement a basic static evaluator for Depth Bounded Minimax.
+
+\item Successfully handle multiple games between MCTS and MinMax
+\item Successfully handle multiple games between MinMax(both MinMax and Pruning)
+
+\item Investigating the performance of various combinations of the algorithms as adversaries on the game.
+
+Strech Goals:
+\item Implement a better static evaluator for Depth Bounded Minimax 
+\item Successfully saving the tree for MCTS using pickle or json.
+\end{itemize}
+
+
+\section{Measure of Success}
+
+
+Successfully applying both MCTS and Depth Bounded Minimax to 
+multiple games rounds of Connect-4 
+
+\section{Plans for Analyzing Results}
+
+We will graphically show the following analysis: 
+\begin{itemize}
+\item Compare the total games won by each algorithm by varying the algorithm's parameters
+\item MCTS: vary the number of rollouts and hold paramaters of other games constant
+\item Depth Bounded Minimax: vary the depth of the tree and change the static evaluator
+\item Compare the performance of MCTS after saving the tree to Depth Bounded Minimax and Standard MCTS
+\end{itemize}
+
+\end{document}
