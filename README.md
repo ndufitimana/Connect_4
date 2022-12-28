@@ -1,10 +1,12 @@
 This repository contains the implementation of both Monte Carlo Tree Search and 
-Minimax Algorithms that play the Connect-4 Game on the terminal.    
+Minimax Algorithms that play the Connect-4 Game on the terminal. 
+This project was a partnerned project with friend, Kelvin Darfour from Swarthmore College. 
+It was presented as a a Capstone Project  in CS063, Artificial Intelligence, at Swarthmore College
 
 We ran several experiments on these algorithms to compare their performance 
 using different parameters, namely rollouts for MCTS and search depth for Minimax.       
 
-If interested in our findings, read our paper under the folder Paper and filename project.pdf or compile the project.tex file.        
+If interested in the  findings, read the paper under the folder Paper and filename project.pdf or compile the project.tex file.        
 
 We have several players that can play Connect-4 with their keywords in ():       
 * Random Player(random): Plays random moves in Connect-4.           
