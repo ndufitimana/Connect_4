@@ -1,3 +1,13 @@
+
+## TL;DR
+This repository contains the implementation of the Connect-4 Game using both the Monte Carlo Tree Search and Minimax Algorithms. It was a capstone project in Artificial Intelligence at Swarthmore College completed in partnership with my colleague Kelvin Darfour. We ran experiments comparing the performance of these algorithms using different parameters and the findings can be found in the project.pdf file in the Paper folder. The repository contains various player options for the game including human, random, minimax, pruning, and MCTS players, each with their own keywords. Users can run the game on the terminal by using the python command `python3 PlayGame.py connect [player1 keyword] [Player2 keyword] [Player1 arguments] [Player2 Arguments] [Other game arguments]` with various arguments available depending on the players chosen. The run.py file provided also allows users to run all the experiments we did on MCTS and Minmax, however it may take over 24 hours to run all the experiments.
+### Demo: MCTS vs Minmax
+MCTS is the yellow player and is given 1500 rollouts while minmax limited at a depth of 4.
+<img src="https://recordit.co/rvnWq2vmyy" width=200><br>
+
+## Full Details
+
+
 This repository contains the implementation of both Monte Carlo Tree Search and 
 Minimax Algorithms that play the Connect-4 Game on the terminal. 
 This project was a partnerned project with friend, Kelvin Darfour from Swarthmore College. 

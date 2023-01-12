@@ -482,3 +482,8 @@ Namespace(game='connect', p1='mcts', p2='pruning', a1=[8000.0], a2=[], games=10,
 MCTS 5 
 Pruning 1 
 
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[1500.0], a2=[], games=1, game_args=[], e1='basic', e2='basic', d1=4, d2=4, show=False)
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[1500.0], a2=[], games=1, game_args=[], e1='basic', e2='basic', d1=4, d2=4, show=False)
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[1500.0], a2=[], games=1, game_args=[], e1='basic', e2='basic', d1=4, d2=4, show=False)
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[1500.0], a2=[], games=1, game_args=[], e1='basic', e2='basic', d1=4, d2=4, show=False)
+Namespace(game='connect', p1='mcts', p2='minmax', a1=[1500.0], a2=[], games=1, game_args=[], e1='basic', e2='basic', d1=4, d2=4, show=False)
